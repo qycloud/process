@@ -1,5 +1,5 @@
 {
-    "name": "qycloud/ko-process-ext",
+    "name": "misterion/ko-process-thin",
     "type": "library",
     "description": "Simple pcntl fork wrapper and process manager",
     "keywords": ["pcntl", "fork", "signal", "thread", "background", "posix", "cli", "utility", "exit_code", "amqp", "shared memory", "semaphore"],
