@@ -1,0 +1,29 @@
+{
+    "name": "qycloud/ko-process-ext",
+    "type": "library",
+    "description": "Simple pcntl fork wrapper and process manager",
+    "keywords": ["pcntl", "fork", "signal", "thread", "background", "posix", "cli", "utility", "exit_code", "amqp", "shared memory", "semaphore"],
+    "homepage": "https://github.com/misterion/ko-process",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikolay Bondarenko",
+            "email": "misterionkell@gmail.com"
+        }
+    ],
+    "suggest": {
+        "ext-proctitle": "*",
+        "ext-pcntl": "*",
+        "ext-posix": "*"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0.0",
+        "php-mock/php-mock-phpunit": "0.2"
+    },
+    "autoload": {
+        "psr-0": { "Ko": "src" }
+    }
+}
