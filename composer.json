@@ -1,5 +1,5 @@
 {
-    "name": "AnYuan/ko-process-thin",
+    "name": "anuyun/ko-process-thin",
     "type": "library",
     "description": "Simple pcntl fork wrapper and process manager",
     "keywords": ["pcntl", "fork", "signal", "thread", "background", "posix", "cli", "utility", "exit_code", "amqp", "shared memory", "semaphore"],
